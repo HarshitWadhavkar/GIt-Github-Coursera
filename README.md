@@ -1,4 +1,4 @@
-# GIt-Github-Coursera
+# Git-Github-Coursera
 Peer Graded Assignment
 
 ## Authors
